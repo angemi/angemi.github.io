@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/grapher-web/static/css/main.9fba7be1.chunk.css",
-    "main.js": "/grapher-web/static/js/main.a319bd96.chunk.js",
-    "main.js.map": "/grapher-web/static/js/main.a319bd96.chunk.js.map",
+    "main.js": "/grapher-web/static/js/main.4fb808e1.chunk.js",
+    "main.js.map": "/grapher-web/static/js/main.4fb808e1.chunk.js.map",
     "runtime-main.js": "/grapher-web/static/js/runtime-main.5821b913.js",
     "runtime-main.js.map": "/grapher-web/static/js/runtime-main.5821b913.js.map",
-    "static/js/2.747b99c2.chunk.js": "/grapher-web/static/js/2.747b99c2.chunk.js",
-    "static/js/2.747b99c2.chunk.js.map": "/grapher-web/static/js/2.747b99c2.chunk.js.map",
+    "static/js/2.c4a2671f.chunk.js": "/grapher-web/static/js/2.c4a2671f.chunk.js",
+    "static/js/2.c4a2671f.chunk.js.map": "/grapher-web/static/js/2.c4a2671f.chunk.js.map",
     "index.html": "/grapher-web/index.html",
-    "precache-manifest.92a6ce18b99aea24e5540a5a8ab2ee11.js": "/grapher-web/precache-manifest.92a6ce18b99aea24e5540a5a8ab2ee11.js",
+    "precache-manifest.9eb471f51b5ddd8cad62eb8a640f698d.js": "/grapher-web/precache-manifest.9eb471f51b5ddd8cad62eb8a640f698d.js",
     "service-worker.js": "/grapher-web/service-worker.js",
     "static/css/main.9fba7be1.chunk.css.map": "/grapher-web/static/css/main.9fba7be1.chunk.css.map",
-    "static/js/2.747b99c2.chunk.js.LICENSE.txt": "/grapher-web/static/js/2.747b99c2.chunk.js.LICENSE.txt"
+    "static/js/2.c4a2671f.chunk.js.LICENSE.txt": "/grapher-web/static/js/2.c4a2671f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5821b913.js",
-    "static/js/2.747b99c2.chunk.js",
+    "static/js/2.c4a2671f.chunk.js",
     "static/css/main.9fba7be1.chunk.css",
-    "static/js/main.a319bd96.chunk.js"
+    "static/js/main.4fb808e1.chunk.js"
   ]
 }
