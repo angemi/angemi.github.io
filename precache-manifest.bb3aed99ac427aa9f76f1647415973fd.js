@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c24d4d6a139b62c92eb0158ecd81410",
+    "revision": "2bb8071127304a2391e4f4738d690afb",
     "url": "/grapher-web/index.html"
   },
   {
-    "revision": "4f9109a0b008e488729c",
+    "revision": "bec8f8f9234d35afc14d",
     "url": "/grapher-web/static/css/main.9fba7be1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grapher-web/static/js/2.00075e68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f9109a0b008e488729c",
-    "url": "/grapher-web/static/js/main.843ae254.chunk.js"
+    "revision": "bec8f8f9234d35afc14d",
+    "url": "/grapher-web/static/js/main.7b7d5a55.chunk.js"
   },
   {
     "revision": "0deaf6fa8d32bc97e280",
