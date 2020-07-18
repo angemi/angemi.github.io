@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ee9701fe1c089d899269181653f19bb",
+    "revision": "3c24d4d6a139b62c92eb0158ecd81410",
     "url": "/grapher-web/index.html"
   },
   {
